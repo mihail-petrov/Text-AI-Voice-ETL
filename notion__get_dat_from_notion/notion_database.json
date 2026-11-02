@@ -1,0 +1,2831 @@
+[
+  {
+    "title": "Dubugging System Resources",
+    "link": "https://www.youtube.com/watch?v=w-_dhkVE_c0&ab_channel=ITTour",
+    "where": "TarnovoConf",
+    "when": "2016",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Challenges in software testing",
+    "link": "https://youtu.be/uv7qR1DIDRM?t=23984",
+    "where": "TarnovoConf",
+    "when": "2024",
+    "who": "Веселин Влахов"
+  },
+  {
+    "title": "OpenStack HomeLab",
+    "link": "https://www.youtube.com/watch?v=KzCB7uHBQt0&ab_channel=ITTour",
+    "where": "TarnovoConf",
+    "when": "2022",
+    "who": "Калоян Котларски"
+  },
+  {
+    "title": "Цифрова несигурност",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2022",
+    "who": "Сава Чанков"
+  },
+  {
+    "title": "Social Engineering - Or How to Steal Your Identity",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2016",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Подобрете качеството на вашия код със Spring Boot",
+    "link": "https://youtu.be/hw64iG_EmnE?t=6586",
+    "where": "TarnovoConf",
+    "when": "2025",
+    "who": "Иван Йонков"
+  },
+  {
+    "title": "You may not need a Single Page Application",
+    "link": "https://www.youtube.com/watch?v=7rppipIRF9s&ab_channel=ITTour",
+    "where": "TarnovoConf",
+    "when": "2023",
+    "who": "Венцислав Николов"
+  },
+  {
+    "title": "Две-три думи за Rust",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2018",
+    "who": "Андрей Радев"
+  },
+  {
+    "title": "Изграждане на клъстерни мулти регионални системи в хибридна среда от клауд услуги и класически хостинг технологии",
+    "link": "https://youtu.be/uv7qR1DIDRM?t=20491",
+    "where": "TarnovoConf",
+    "when": "2024",
+    "who": "Димитър Ванев"
+  },
+  {
+    "title": "TypeScript Parkour - make your coding easier and safer",
+    "link": "https://youtu.be/hw64iG_EmnE?t=3458",
+    "where": "TarnovoConf",
+    "when": "2025",
+    "who": "Стефан Неделчев"
+  },
+  {
+    "title": "Cultural interviews",
+    "link": "https://youtu.be/uv7qR1DIDRM?t=17464",
+    "where": "TarnovoConf",
+    "when": "2024",
+    "who": "Петър Казаков"
+  },
+  {
+    "title": "Network Service Mesh in a Nutshell",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2019",
+    "who": "Радослав Димитров"
+  },
+  {
+    "title": "Как да си \"чатим\" с нашите структурирани данни в Databricks",
+    "link": "https://youtu.be/hw64iG_EmnE?t=22587",
+    "where": "TarnovoConf",
+    "when": "2025",
+    "who": "Иван Донев"
+  },
+  {
+    "title": "Естествен интелект в разработката на софтуер",
+    "link": "https://youtu.be/hw64iG_EmnE?t=14509",
+    "where": "TarnovoConf",
+    "when": "2025",
+    "who": "Камен Бочев"
+  },
+  {
+    "title": "React.js – къде е и накъде отива",
+    "link": "https://youtu.be/hw64iG_EmnE?t=172",
+    "where": "TarnovoConf",
+    "when": "2025",
+    "who": "Красимир Цонев"
+  },
+  {
+    "title": "AI, кризи и промени: Как да навигираме успешно във времена на турбуленции?",
+    "link": "https://youtu.be/hw64iG_EmnE?t=12167",
+    "where": "TarnovoConf",
+    "when": "2025",
+    "who": "Пламен Мандаджиев"
+  },
+  {
+    "title": "GitHub Actions: Отвъд CI/CD",
+    "link": "https://youtu.be/hw64iG_EmnE?t=19271",
+    "where": "TarnovoConf",
+    "when": "2025",
+    "who": "Любомир Филипов"
+  },
+  {
+    "title": "Платформа за подобряване на качеството, генериране и изпълнение на автоматизирани тестове",
+    "link": "https://www.youtube.com/watch?v=yb5RmqT3PfE&ab_channel=ITTour",
+    "where": "TarnovoConf",
+    "when": "2023",
+    "who": "Тонислав Троев"
+  },
+  {
+    "title": "Извинения дебнат отвсякъде - екстремна отговорност",
+    "link": "https://youtu.be/uv7qR1DIDRM?t=7675",
+    "where": "TarnovoConf",
+    "when": "2024",
+    "who": "Любомир Филипов"
+  },
+  {
+    "title": "Как да бъдем най-добрите в своята професия?",
+    "link": "https://youtu.be/uv7qR1DIDRM?t=13321",
+    "where": "TarnovoConf",
+    "when": "2024",
+    "who": "Пламен Мандаджиев"
+  },
+  {
+    "title": "Отново микроконтролери - или как да направим for цикъл като ползваме хардуера. Паралелна обработка и работа с данни.",
+    "link": "https://www.youtube.com/watch?v=iidowzt7P2A&ab_channel=ITTour",
+    "where": "TarnovoConf",
+    "when": "2016",
+    "who": "Невен Боянов"
+  },
+  {
+    "title": "The NLP approach for detecting phishing URLs",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2019",
+    "who": "Георги Караджов"
+  },
+  {
+    "title": "STM32 External loader",
+    "link": "https://youtu.be/uv7qR1DIDRM?t=4297",
+    "where": "TarnovoConf",
+    "when": "2024",
+    "who": "Георги Маринов"
+  },
+  {
+    "title": "ASCII - їыїяїКїЮ їчїз їж їЦїИїЕїАїжїъїя їэїзїБїзїщїзїХїяїДїя",
+    "link": "https://youtu.be/uv7qR1DIDRM?t=1060",
+    "where": "TarnovoConf",
+    "when": "2024",
+    "who": "Юри Стойнов"
+  },
+  {
+    "title": "Писна ми от бизнес програмиране: Първи стъпки в правене на игри с Unity3D",
+    "link": "https://www.youtube.com/watch?v=QpNXcoCcFUw",
+    "where": "TarnovoConf",
+    "when": "2016",
+    "who": "Лъчезар Канавров / \nСтоил Стойчев"
+  },
+  {
+    "title": "Непознатите виртуални светове",
+    "link": "https://www.youtube.com/watch?v=irCbRXLOpcI&ab_channel=ITTour",
+    "where": "TarnovoConf",
+    "when": "2016",
+    "who": "Стефан Ставрев"
+  },
+  {
+    "title": "Аутентикация в MySQL",
+    "link": "https://www.youtube.com/watch?v=hn5NHE3VJxM&ab_channel=ITTour",
+    "where": "TarnovoConf",
+    "when": "2023",
+    "who": "Георги Кодинов"
+  },
+  {
+    "title": "Необходимото зло – изкуственият интелект",
+    "link": "https://www.youtube.com/watch?v=vVqY86ARWyU&ab_channel=ITTour",
+    "where": "TarnovoConf",
+    "when": "2023",
+    "who": "Любомир Филипов"
+  },
+  {
+    "title": "Бизнес анализ, или успешна кариера в софтуерния сектор без програмни умения",
+    "link": "https://www.youtube.com/watch?v=F-Gc9F0yif4&ab_channel=ITTour",
+    "where": "TarnovoConf",
+    "when": "2023",
+    "who": "Петя Петкова"
+  },
+  {
+    "title": "C4 Architecture Model",
+    "link": "https://www.youtube.com/watch?v=WGF0WjMOfQU",
+    "where": "TarnovoConf",
+    "when": "2023",
+    "who": "Красимир Байлов"
+  },
+  {
+    "title": "Cooking for geeks - 10 years later",
+    "link": "https://www.youtube.com/watch?v=g_Qn2x3Hrt0&ab_channel=ITTour",
+    "where": "TarnovoConf",
+    "when": "2023",
+    "who": "Яна Петрова"
+  },
+  {
+    "title": "MySQL за начинаещи",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2022",
+    "who": "Георги Кодинов"
+  },
+  {
+    "title": "Resource management in Linux",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2017",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Бъди по-бърз с тези инструменти за продуктивност: i3wm, vim, и други",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2022",
+    "who": "Тодор Тодоров"
+  },
+  {
+    "title": "Водене на преговори за начинаещи: какво научих?",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2022",
+    "who": "Любомир Филипов"
+  },
+  {
+    "title": "Кариерно развитие за напреднали",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2022",
+    "who": "Даниела Назим"
+  },
+  {
+    "title": "Smart Home Basics",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2019",
+    "who": "Мирослав Петров"
+  },
+  {
+    "title": "Въведение в Go",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2019",
+    "who": "Ivan Vankov"
+  },
+  {
+    "title": "ZeroMQ в съвременните приложения",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2018",
+    "who": "Венцислав Атанасов"
+  },
+  {
+    "title": "kpatch - Linux Kernel livepatching",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2019",
+    "who": "Ангел Щилянов"
+  },
+  {
+    "title": "BDD For The Rest of Us",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2017",
+    "who": "Боян Йорданов"
+  },
+  {
+    "title": "Blockchain консенсус алгоритми",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2018",
+    "who": " Светлин Наков"
+  },
+  {
+    "title": "HARDWARE + SOFTWARE + EDUCATION = STARTUP @ BG #funded #opensource",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2018",
+    "who": "Невен Боянов"
+  },
+  {
+    "title": "Behind the curtain: Oblivious Transfer",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2018",
+    "who": "Любомир Филипов"
+  },
+  {
+    "title": "Текущата авторскоправна реформа в ЕС и регулацията на интернет",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2018",
+    "who": "Ана Лазарова"
+  },
+  {
+    "title": "Agile в service-oriented компании: възможно ли е?",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2018",
+    "who": "Момчил Брашнянов"
+  },
+  {
+    "title": "За стартъпите и погребенията",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2017",
+    "who": "Яна Петрова"
+  },
+  {
+    "title": "High Availability SOA APP with GlusterFS",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2017",
+    "who": "Владимир Витков"
+  },
+  {
+    "title": "1-ва и 2-ра година „Софтуерно инженерство“",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2017",
+    "who": "Борислав Трайков"
+  },
+  {
+    "title": "POMM",
+    "link": null,
+    "where": "TarnovoConf",
+    "when": "2017",
+    "who": "Янко Симеонов"
+  },
+  {
+    "title": "Риба, рак или щука - автори на техническа документация",
+    "link": "https://www.youtube.com/watch?v=Jt8yZi7R5Oc&ab_channel=ITTour",
+    "where": "TarnovoConf",
+    "when": "2016",
+    "who": "Десислава Михайлова"
+  },
+  {
+    "title": "iOS 9 for Develepers",
+    "link": "https://www.youtube.com/watch?v=z9D0Kdg9_Dg&ab_channel=ITTour",
+    "where": "TarnovoConf",
+    "when": "2016",
+    "who": "Богдан Ковачев"
+  },
+  {
+    "title": "HTTP/2 for Developers",
+    "link": "https://www.youtube.com/watch?v=0fk7f1yyhL8&list=PL39ynX_J56q1TSb5MxCcBOOb48dNKX44_&index=4",
+    "where": "TarnovoConf",
+    "when": "2015",
+    "who": " Светлин Наков"
+  },
+  {
+    "title": "Системи за компютърно зрение",
+    "link": "https://www.youtube.com/watch?v=RzQIBf34TRI&list=PL39ynX_J56q1TSb5MxCcBOOb48dNKX44_",
+    "where": "TarnovoConf",
+    "when": "2015",
+    "who": "Орлин Димитров"
+  },
+  {
+    "title": "Resident good: NoSQL",
+    "link": "https://www.youtube.com/watch?v=tRyld0b_k-4&list=PL39ynX_J56q1TSb5MxCcBOOb48dNKX44_",
+    "where": "TarnovoConf",
+    "when": "2015",
+    "who": "Любомир Филипов"
+  },
+  {
+    "title": "Monoliths and microservices",
+    "link": "https://www.youtube.com/watch?v=jfhMONgl2y4&index=3&list=PL39ynX_J56q1TSb5MxCcBOOb48dNKX44_",
+    "where": "TarnovoConf",
+    "when": "2015",
+    "who": "Божидар Божанов"
+  },
+  {
+    "title": "DIY home thermostat with Arduino YUN and DHT22",
+    "link": "https://www.youtube.com/watch?v=lHf6Ldenpw8&index=2&list=PL39ynX_J56q1TSb5MxCcBOOb48dNKX44_",
+    "where": "TarnovoConf",
+    "when": "2015",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Криптография за начинаещи: Работа с JOSE и JWT за уеб и мобилни приложения",
+    "link": "https://www.youtube.com/watch?v=IETij932-7c&index=5&list=PL39ynX_J56q1TSb5MxCcBOOb48dNKX44_",
+    "where": "TarnovoConf",
+    "when": "2015",
+    "who": "Владимир Джувинов"
+  },
+  {
+    "title": "Лингвистични митове",
+    "link": "https://www.youtube.com/watch?v=f8ANIW7hBWw",
+    "where": "TarnovoConf",
+    "when": "2013",
+    "who": "Божидар Божанов"
+  },
+  {
+    "title": "Трикове за продуктивност",
+    "link": "https://www.youtube.com/watch?v=pK4yyQNDzpk",
+    "where": "TarnovoConf",
+    "when": "2013",
+    "who": "Стефан Кънев"
+  },
+  {
+    "title": "Arduino - the fun it brings you",
+    "link": "https://www.youtube.com/watch?v=LzIadv2rtcY",
+    "where": "TarnovoConf",
+    "when": "2013",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Cooking for geeks",
+    "link": "https://www.youtube.com/watch?v=1rRZ6jPOp1U",
+    "where": "TarnovoConf",
+    "when": "2013",
+    "who": "Яна Петрова"
+  },
+  {
+    "title": "Stuff you should know about hardware",
+    "link": "https://www.youtube.com/watch?v=Hkia6kxHWSo",
+    "where": "TarnovoConf",
+    "when": "2013",
+    "who": "Боян Кроснов"
+  },
+  {
+    "title": "Unit Testing & Refactoring",
+    "link": "https://www.youtube.com/watch?v=Yqw7aLq99xA",
+    "where": "TarnovoConf",
+    "when": "2013",
+    "who": " Светлин Наков"
+  },
+  {
+    "title": "CSS за програмисти",
+    "link": "https://www.youtube.com/watch?v=_HU9BQW4JGM",
+    "where": "TarnovoConf",
+    "when": "2013",
+    "who": "Красимир Цонев"
+  },
+  {
+    "title": "Bluetooth Low Energy and the Internet of Things",
+    "link": "https://www.youtube.com/watch?v=Qr1n5CiWZow",
+    "where": "TarnovoConf",
+    "when": "2013",
+    "who": "Даниел Радев"
+  },
+  {
+    "title": "Общителният програмист: Свобода, споделяне, развитие, приключение, братство",
+    "link": "https://www.youtube.com/watch?v=W5HjWFsmzmw",
+    "where": "TarnovoConf",
+    "when": "2013",
+    "who": "Божидар Бацов"
+  },
+  {
+    "title": "LLM в базата данни,  да си говорим с базата ни на разбираем език",
+    "link": "https://youtu.be/UmzED-LPvgM?t=23058",
+    "where": "PlovdivConf",
+    "when": "2025",
+    "who": "Михаил Петров"
+  },
+  {
+    "title": "Как ме засяга Европейският акт за достъпността?",
+    "link": "https://youtu.be/UmzED-LPvgM?t=17160",
+    "where": "PlovdivConf",
+    "when": "2025",
+    "who": "Ангел Петров"
+  },
+  {
+    "title": "Empowering Teams with a Backstage Development Portal: A Journey to Engineering Excellence",
+    "link": "https://youtu.be/UmzED-LPvgM?t=14251",
+    "where": "PlovdivConf",
+    "when": "2025",
+    "who": " Стефан Ангелов"
+  },
+  {
+    "title": "Back to the Future of the IT Teams in 30 years from now",
+    "link": "https://youtu.be/UmzED-LPvgM?t=4923",
+    "where": "PlovdivConf",
+    "when": "2025",
+    "who": " Никола Богданов"
+  },
+  {
+    "title": "Vibe coding",
+    "link": "https://youtu.be/UmzED-LPvgM?t=1208",
+    "where": "PlovdivConf",
+    "when": "2025",
+    "who": " Светлин Наков"
+  },
+  {
+    "title": "Generative AI Agents",
+    "link": "https://youtu.be/UgPT6Sd4fEg?t=23859",
+    "where": "PlovdivConf",
+    "when": "2024",
+    "who": " Елисей Йорданов"
+  },
+  {
+    "title": "CI/CD от един код до деплойване на клиентски клъстери в един стартап",
+    "link": "https://youtu.be/UgPT6Sd4fEg?t=20977",
+    "where": "PlovdivConf",
+    "when": "2024",
+    "who": " Алекс Куклин"
+  },
+  {
+    "title": "Що е то микроконтролер ESP32 и как се пуска?",
+    "link": "https://youtu.be/UgPT6Sd4fEg?t=17381",
+    "where": "PlovdivConf",
+    "when": "2024",
+    "who": " Георги Маринов"
+  },
+  {
+    "title": "Как доброволчеството помага на работата в офиса?",
+    "link": "https://youtu.be/UgPT6Sd4fEg?t=14512",
+    "where": "PlovdivConf",
+    "when": "2024",
+    "who": " Моника Симеонова"
+  },
+  {
+    "title": "FinOps Framework: Bringing Accountability to Cloud Costs",
+    "link": "https://youtu.be/UgPT6Sd4fEg?t=9007",
+    "where": "PlovdivConf",
+    "when": "2024",
+    "who": " Стефан Ангелов"
+  },
+  {
+    "title": "Предизвикателства и решения при работа с големи данни (Big Data)",
+    "link": "https://youtu.be/UgPT6Sd4fEg?t=6136",
+    "where": "PlovdivConf",
+    "when": "2024",
+    "who": " Радослав Кирков"
+  },
+  {
+    "title": "Developer's Introduction to LLMs Beyond ChatGPTТ",
+    "link": "https://youtu.be/UgPT6Sd4fEg?t=2410",
+    "where": "PlovdivConf",
+    "when": "2024",
+    "who": "Танер Илязов"
+  },
+  {
+    "title": "Що е то позитивна интелигентност и има ли тя почва у нас?",
+    "link": "https://www.youtube.com/watch?v=ClSZ1OK9kYM&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2023",
+    "who": "Даниела Назим"
+  },
+  {
+    "title": "Въведение в (Machine|Deep) Learning",
+    "link": "https://www.youtube.com/watch?v=JGeQLxC0QFA&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2023",
+    "who": "Стефан Кънев"
+  },
+  {
+    "title": "Въведение в ембедед програмирането за микроконтролери STM32",
+    "link": "https://www.youtube.com/watch?v=3r6CRNf8Bh4&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2023",
+    "who": "Георги Маринов"
+  },
+  {
+    "title": "Building Test Automation Framework With Groovy / Geb and Spock",
+    "link": "https://www.youtube.com/watch?v=S-1sVoHPQTY",
+    "where": "PlovdivConf",
+    "when": "2023",
+    "who": "Георги Иванов"
+  },
+  {
+    "title": "TRIM/Discard в системи за облачно съхранение базирани на KVM",
+    "link": "https://www.youtube.com/watch?v=FfzZ5VkTViA&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2023",
+    "who": "Николай Тенев"
+  },
+  {
+    "title": "Building Data Lakes",
+    "link": "https://www.youtube.com/watch?v=OgmSB5GuUwk&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2023",
+    "who": "Стефан Ангелов"
+  },
+  {
+    "title": "Интегриране на OpenAI в решения за данни",
+    "link": "https://www.youtube.com/watch?v=I1OX6ONZ2tw",
+    "where": "PlovdivConf",
+    "when": "2023",
+    "who": "Иван Донев"
+  },
+  {
+    "title": "Privacy by Design & Privacy Engineering",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2022",
+    "who": " Цветина Лунгарова"
+  },
+  {
+    "title": "Privacy by Design & Privacy Engineering",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2022",
+    "who": " Цветина Лунгарова"
+  },
+  {
+    "title": "Spring Cloud Native Application",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2022",
+    "who": " Стефан Ангелов"
+  },
+  {
+    "title": "Разпределена софтуерна архитектура за сериозни игри DiAS",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2022",
+    "who": " Стефан Ставрев"
+  },
+  {
+    "title": "Manual QA in a Full-stack World: What’s the next step in your career development аs a QA?",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2022",
+    "who": "Георги Иванов  / \n Диляна Тоцева"
+  },
+  {
+    "title": "Оптимизиране на ефективността на локалните облаци в контекста на нарастващите разходи за електроенергия и недостиг на хардуер",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2022",
+    "who": " Николай Тенев"
+  },
+  {
+    "title": "Discovering Governing Equations from Partial Measurements with Deep Delay Autoencoders",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2022",
+    "who": " Вълко Милев"
+  },
+  {
+    "title": "Microservices 101",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2022",
+    "who": " Красимир Байлов"
+  },
+  {
+    "title": "Сигурност при ARM базирани устройствата, криптиране, сигурен boot и Trust zone при ARM",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2019",
+    "who": "Цветан Узунов"
+  },
+  {
+    "title": "On hosts and guests: Kernel tracing of VMs",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2019",
+    "who": " Slavomir Kaslev"
+  },
+  {
+    "title": "ftrace - какво се крие под капака на линукското ядро",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2019",
+    "who": " Цветомир Стоянов"
+  },
+  {
+    "title": "The road to QUIC and HTTP/3",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2019",
+    "who": " Рангел Иванов"
+  },
+  {
+    "title": "EIP with Apache Camel",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2019",
+    "who": " Стефан Ангелов"
+  },
+  {
+    "title": "Кариерно развитие за напреднали или какво НЕ! трябва да правим за да бъдем успешни",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2019",
+    "who": " Димитър Йорданов"
+  },
+  {
+    "title": "Мястото на IT технологиите във Възраждането на българските села",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2019",
+    "who": " Васил Кендов"
+  },
+  {
+    "title": "PWA - Приложения в Браузъра",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2019",
+    "who": " Тома Велев"
+  },
+  {
+    "title": "Developing Aeternity Blockchain Smart Contracts",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2019",
+    "who": " Milen Radkov"
+  },
+  {
+    "title": "A Hipster Approach to Modern Java Development",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2019",
+    "who": " Nayden Gochev"
+  },
+  {
+    "title": "Как Open Source технологиите могат да помогнат Вашият град да стане по-добро място за живеене",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2018",
+    "who": " Цветан Узунов"
+  },
+  {
+    "title": "SQ-UI Made in Plovdiv",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2018",
+    "who": " Самуил Господинов"
+  },
+  {
+    "title": "Тренировки за ИТ специалисти",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2018",
+    "who": " Лазар Радков"
+  },
+  {
+    "title": "Soldering workshop",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2018",
+    "who": "Леон Анави"
+  },
+  {
+    "title": "Kernel Shark 1.0",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2018",
+    "who": " Йордан Караджов"
+  },
+  {
+    "title": "Wendelin - Big Data Platform and edge computing using Nvidia TX2 board",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2018",
+    "who": " Ivan Tyagov"
+  },
+  {
+    "title": "JSS бъдеще в миналото",
+    "link": null,
+    "where": "PlovdivConf",
+    "when": "2018",
+    "who": " Стоян Германов"
+  },
+  {
+    "title": "Protecting Sensitive Data",
+    "link": "https://youtu.be/KZSzSZRMJBg",
+    "where": "PlovdivConf",
+    "when": "2017",
+    "who": "Божидар Божанов"
+  },
+  {
+    "title": "От идея до проект",
+    "link": "https://youtu.be/W7IfV8cRk5s",
+    "where": "PlovdivConf",
+    "when": "2017",
+    "who": "Силвина Фурнаджиева"
+  },
+  {
+    "title": "Introduction to Artificial Neural Networks",
+    "link": "https://youtu.be/jq9zZDozvkw",
+    "where": "PlovdivConf",
+    "when": "2017",
+    "who": "Александър Атанасов"
+  },
+  {
+    "title": "Securing your KVM/Container network",
+    "link": "https://youtu.be/EVYMXzYgYLs",
+    "where": "PlovdivConf",
+    "when": "2017",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Monitoring and ensuring stability of iOS apps",
+    "link": "https://youtu.be/anDEB_BZG-A",
+    "where": "PlovdivConf",
+    "when": "2017",
+    "who": "Галин Кърджилов"
+  },
+  {
+    "title": "RavenDB и NoSQL бази данни - приложения",
+    "link": "https://youtu.be/7fI5SrNjy4o",
+    "where": "PlovdivConf",
+    "when": "2017",
+    "who": "Апостол Апостолов"
+  },
+  {
+    "title": "Testing REST services with REST-Assured",
+    "link": "https://youtu.be/JH5ASgojYcY",
+    "where": "PlovdivConf",
+    "when": "2017",
+    "who": "Георги Иванов"
+  },
+  {
+    "title": "Vulkan - Is it Worth It?",
+    "link": "https://www.youtube.com/watch?v=-b7tFowLBuY&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2016",
+    "who": "Рангел Иванов"
+  },
+  {
+    "title": "Building Мobile Аpps with NativeScript",
+    "link": "https://www.youtube.com/watch?v=d7rnYW7CuUA&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2016",
+    "who": "София Лазарова"
+  },
+  {
+    "title": "ХУДЛ",
+    "link": "https://www.youtube.com/watch?v=-s4d_CPIPpQ&list=PL39ynX_J56q2MKvZBAPwWiekALGAPC0TO&index=6&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2016",
+    "who": "Васил Колев"
+  },
+  {
+    "title": "Integrating Redux with React",
+    "link": "https://www.youtube.com/watch?v=3x6qGs1_aoU&list=PL39ynX_J56q2MKvZBAPwWiekALGAPC0TO&index=5&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2016",
+    "who": "Радослав Станков"
+  },
+  {
+    "title": "Що е то - автори на техническа документация",
+    "link": "https://www.youtube.com/watch?v=hSg-aBZWktw&list=PL39ynX_J56q2MKvZBAPwWiekALGAPC0TO&index=4&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2016",
+    "who": "Десислава Михайлова"
+  },
+  {
+    "title": "Apache Hadoop and Map Reduce",
+    "link": "https://www.youtube.com/watch?v=aRd6NYZpJMI&list=PL39ynX_J56q2MKvZBAPwWiekALGAPC0TO&index=3&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2016",
+    "who": " Светлин Наков"
+  },
+  {
+    "title": "IPv6 Deployment and Maintenance",
+    "link": "https://www.youtube.com/watch?v=SsqVS8VlTro&list=PL39ynX_J56q2MKvZBAPwWiekALGAPC0TO&index=2&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2016",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "High Volume Monitoring with Graphite",
+    "link": "https://www.youtube.com/watch?v=o8FSccD36RI&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2015",
+    "who": "Владимир Витков"
+  },
+  {
+    "title": "Как проектът Yocto помага за създаване на Internet of Things",
+    "link": "https://www.youtube.com/watch?v=r6KnkMotuyg&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2015",
+    "who": "Леон Анави"
+  },
+  {
+    "title": "Memory Leaks in Android and Java Applications",
+    "link": "https://www.youtube.com/watch?v=zLhlw834jXs&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2015",
+    "who": "Васил Нончев"
+  },
+  {
+    "title": "Жените - пионери в програмирането",
+    "link": "https://www.youtube.com/watch?v=uBvwF5yPNr4&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2015",
+    "who": "Пламен Стоев"
+  },
+  {
+    "title": "EcmaScript Harmony",
+    "link": "https://www.youtube.com/watch?v=00a6OURvcL4&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2015",
+    "who": "Йордан Иванов"
+  },
+  {
+    "title": "PulseAudio",
+    "link": "https://www.youtube.com/watch?v=lUcbxJ9L_O4&list=PL39ynX_J56q1caN4J5dZvJzuFuNzz51Pr&index=3&ab_channel=ITTour",
+    "where": "PlovdivConf",
+    "when": "2015",
+    "who": "Мариян Маринов,"
+  },
+  {
+    "title": "Клъстеризация и Класификация",
+    "link": "https://www.youtube.com/watch?v=hdA0X8yFcc4&list=PL39ynX_J56q1untY_QPhFcQObh_wIpJIh&index=9",
+    "where": "PlovdivConf",
+    "when": "2014",
+    "who": "Екатерина Михайлова"
+  },
+  {
+    "title": "IT инфраструктура - що е то",
+    "link": "https://www.youtube.com/watch?v=qnSPr9deM8Q&index=8&list=PL39ynX_J56q1untY_QPhFcQObh_wIpJIh",
+    "where": "PlovdivConf",
+    "when": "2014",
+    "who": "Боян Кроснов"
+  },
+  {
+    "title": "Тенденции в потребителското изживяване",
+    "link": "https://www.youtube.com/watch?v=ZReoavWgFeE&list=PL39ynX_J56q1untY_QPhFcQObh_wIpJIh&index=7",
+    "where": "PlovdivConf",
+    "when": "2014",
+    "who": "Теодор Лазаров"
+  },
+  {
+    "title": "Защо трябва да обичаме Haskell?",
+    "link": "https://www.youtube.com/watch?v=5Hi1_RHs0As&list=PL39ynX_J56q1untY_QPhFcQObh_wIpJIh&index=5",
+    "where": "PlovdivConf",
+    "when": "2014",
+    "who": "Радослав Георгиев"
+  },
+  {
+    "title": "Angular JS",
+    "link": "https://www.youtube.com/watch?v=2_LiCb-9uyw&index=4&list=PL39ynX_J56q1untY_QPhFcQObh_wIpJIh",
+    "where": "PlovdivConf",
+    "when": "2014",
+    "who": "Радослав Станков"
+  },
+  {
+    "title": "За смъртта на TDD",
+    "link": "https://www.youtube.com/watch?v=ocaTlKtedKk&list=PL39ynX_J56q1untY_QPhFcQObh_wIpJIh&index=3",
+    "where": "PlovdivConf",
+    "when": "2014",
+    "who": "Стефан Кънев"
+  },
+  {
+    "title": "Компютърни игри за независими разработчици",
+    "link": "https://www.youtube.com/watch?v=ZA_bnq9H4kQ&list=PL39ynX_J56q1untY_QPhFcQObh_wIpJIh&index=2",
+    "where": "PlovdivConf",
+    "when": "2014",
+    "who": "Стефан Ставрев"
+  },
+  {
+    "title": "Защо да учим (Ruby и Rails)?",
+    "link": "https://www.youtube.com/watch?v=da0M10wWXG4&list=PL39ynX_J56q3blLzg-PbxN5tK3i3UfUTP",
+    "where": "PlovdivConf",
+    "when": "2013",
+    "who": "Димитър Димитров"
+  },
+  {
+    "title": "Защо Clojure?",
+    "link": "https://www.youtube.com/watch?v=V-BgoG8EjM0&list=PL39ynX_J56q3blLzg-PbxN5tK3i3UfUTP",
+    "where": "PlovdivConf",
+    "when": "2013",
+    "who": "Стефан Кънев"
+  },
+  {
+    "title": "Как да ползваме git hooks за да спестим време",
+    "link": "https://www.youtube.com/watch?v=RZSX4Td17Iw&list=PL39ynX_J56q3blLzg-PbxN5tK3i3UfUTP",
+    "where": "PlovdivConf",
+    "when": "2013",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Глътка въздух за Java програмистите: Grails",
+    "link": "https://www.youtube.com/watch?v=tSWILf76pK0&list=PL39ynX_J56q3blLzg-PbxN5tK3i3UfUTP",
+    "where": "PlovdivConf",
+    "when": "2013",
+    "who": "Тодор Тодоров"
+  },
+  {
+    "title": "Миграция на приложения без спиране на услугата",
+    "link": "https://www.youtube.com/watch?v=rCZey0CV0tg&list=PL39ynX_J56q3blLzg-PbxN5tK3i3UfUTP",
+    "where": "PlovdivConf",
+    "when": "2013",
+    "who": "Йордан Георгиев"
+  },
+  {
+    "title": "Rust за практичния програмист",
+    "link": "https://www.youtube.com/watch?v=XUjSE7WSuTE&list=PL39ynX_J56q3blLzg-PbxN5tK3i3UfUTP",
+    "where": "PlovdivConf",
+    "when": "2013",
+    "who": "Петко Борджуков"
+  },
+  {
+    "title": "Как да си върнем личната идентичност в мрежата",
+    "link": "https://www.youtube.com/watch?v=CTsjFnZoEGE&list=PL39ynX_J56q3blLzg-PbxN5tK3i3UfUTP",
+    "where": "PlovdivConf",
+    "when": "2013",
+    "who": "Владимир Джувинов"
+  },
+  {
+    "title": "Multi-client runtime generation with ASP.NET",
+    "link": "https://www.youtube.com/watch?v=v6Wpja22OPQ",
+    "where": "BurgasConf",
+    "when": "2021",
+    "who": "Георги Карагогов"
+  },
+  {
+    "title": "Rust: настояще и бъдеще",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2022",
+    "who": "Андрей Радев"
+  },
+  {
+    "title": "Основни концепции и инструменти в ROS2 (Robot Operating system 2)",
+    "link": "https://youtu.be/iwpiFWgO-Vo?t=5007",
+    "where": "BurgasConf",
+    "when": "2024",
+    "who": "Калоян Николов"
+  },
+  {
+    "title": "Modular Monolith Architecture",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2022",
+    "who": "Никола Нецов"
+  },
+  {
+    "title": "Дискусия  \"AI колега: динамиката на съвременния екип\"",
+    "link": "https://youtu.be/czFMg22wvEE?t=9228",
+    "where": "BurgasConf",
+    "when": "2025",
+    "who": "Иван Златев / \nПламен Мандаджиев"
+  },
+  {
+    "title": "Open Source Competition Programming Judge System",
+    "link": "https://www.youtube.com/watch?v=KvtHNxFZG9Y",
+    "where": "BurgasConf",
+    "when": "2021",
+    "who": "Димитър Минчев"
+  },
+  {
+    "title": "Access Control Models",
+    "link": "https://www.youtube.com/watch?v=NnISO96u-zk&ab_channel=ITTour",
+    "where": "BurgasConf",
+    "when": "2023",
+    "who": "Йордан Танев"
+  },
+  {
+    "title": "Технологично предприемачество от малки градове 101",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2022",
+    "who": "Господин Бодуров"
+  },
+  {
+    "title": "Building the HackConf Streaming Platform",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2022",
+    "who": "Даниел Гошев"
+  },
+  {
+    "title": "Introduction to Deep Learning",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2022",
+    "who": "Евгени Дюлгеров"
+  },
+  {
+    "title": "Introduction to Blazor",
+    "link": "https://www.youtube.com/watch?v=e1eeQMvoDVo&list=PL39ynX_J56q1Xyyyu8x8Q2qFY6U6YbY48&index=6",
+    "where": "BurgasConf",
+    "when": "2019",
+    "who": "Георги Финдулов"
+  },
+  {
+    "title": "Как се прави Exploratory Testing",
+    "link": "https://www.youtube.com/watch?v=-8MaWMMkfRM&ab_channel=ITTour",
+    "where": "BurgasConf",
+    "when": "2023",
+    "who": "Петър Събев"
+  },
+  {
+    "title": "За пет минути от десктоп до FULL STACK DEV със FLASK Framework",
+    "link": "https://www.youtube.com/watch?v=uD8tAPQ3Pm0",
+    "where": "BurgasConf",
+    "when": "2021",
+    "who": "Валентин Русалийски"
+  },
+  {
+    "title": "Софтуерната архитектура не е това, което си мислите",
+    "link": "https://youtu.be/czFMg22wvEE?t=15570",
+    "where": "BurgasConf",
+    "when": "2025",
+    "who": "Красимир Костадинов"
+  },
+  {
+    "title": "По-малко приказки, повече стойност: Тайната на ефективните срещи",
+    "link": "https://youtu.be/czFMg22wvEE?t=6021",
+    "where": "BurgasConf",
+    "when": "2025",
+    "who": "Иван Златев"
+  },
+  {
+    "title": "Web Assembly – убиецът на JavaScript",
+    "link": "https://youtu.be/czFMg22wvEE?t=18819",
+    "where": "BurgasConf",
+    "when": "2025",
+    "who": "Михаил Петров"
+  },
+  {
+    "title": "🧠 Practical Neuroscience for IT Teams: How AI Is Rewiring the Way We Work",
+    "link": "https://youtu.be/czFMg22wvEE?t=1699",
+    "where": "BurgasConf",
+    "when": "2025",
+    "who": "Наска Янкова /\nНикола Богданов"
+  },
+  {
+    "title": "История на програмирането",
+    "link": "https://www.youtube.com/watch?v=QnM3ugh-k-c",
+    "where": "BurgasConf",
+    "when": "2021",
+    "who": "Николай Ботев"
+  },
+  {
+    "title": "AI Security - Best Practices",
+    "link": "https://youtu.be/czFMg22wvEE?t=22428",
+    "where": "BurgasConf",
+    "when": "2025",
+    "who": "Евгени Дюлгеров"
+  },
+  {
+    "title": "Wearables",
+    "link": "https://www.youtube.com/watch?v=3HFDMcp4vOw&ab_channel=ITTour",
+    "where": "BurgasConf",
+    "when": "2015",
+    "who": "Стоян Узунов"
+  },
+  {
+    "title": "Как Internet of Things си говорят чрез MQTT и софтуер с отворен код?",
+    "link": "https://www.youtube.com/watch?v=qoh4a0ZP-NY",
+    "where": "BurgasConf",
+    "when": "2016",
+    "who": "Леон Анави"
+  },
+  {
+    "title": "Как да убием и последната дискета с Open Source технологии?",
+    "link": "https://www.youtube.com/watch?v=o0728SPwA2w&ab_channel=ITTour",
+    "where": "BurgasConf",
+    "when": "2023",
+    "who": "Леон Анави"
+  },
+  {
+    "title": "Как да имаме сигурен софтуер?",
+    "link": "https://www.youtube.com/watch?v=OQAwMyhLoo8&list=PL39ynX_J56q1Xyyyu8x8Q2qFY6U6YbY48&index=2",
+    "where": "BurgasConf",
+    "when": "2019",
+    "who": "Божидар Божанов"
+  },
+  {
+    "title": "НеИТ нещата важни за един програмист",
+    "link": "https://youtu.be/iwpiFWgO-Vo?t=12858",
+    "where": "BurgasConf",
+    "when": "2024",
+    "who": "Пламен Мандаджиев"
+  },
+  {
+    "title": "Automate your understanding",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2018",
+    "who": "Костадин Голев"
+  },
+  {
+    "title": "Introduction to RISC-V development",
+    "link": "https://www.youtube.com/watch?v=5R-NUP2DDio",
+    "where": "BurgasConf",
+    "when": "2021",
+    "who": "Щеряна Шопова"
+  },
+  {
+    "title": "Software Gone Wrong",
+    "link": "https://youtu.be/iwpiFWgO-Vo?t=1550",
+    "where": "BurgasConf",
+    "when": "2024",
+    "who": "Стефан Вартоломеев"
+  },
+  {
+    "title": "How to plan a feature",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2023",
+    "who": "Радослав Станков"
+  },
+  {
+    "title": "Система за киберсигурност в малки и средни предприятия",
+    "link": "https://youtu.be/iwpiFWgO-Vo?t=20202",
+    "where": "BurgasConf",
+    "when": "2024",
+    "who": "Валентин Русалийски"
+  },
+  {
+    "title": "Zen and the art of testing a distributed storage system",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2022",
+    "who": "Тодор Танев"
+  },
+  {
+    "title": "Зад кулисите на един STEM експериментариум",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2018",
+    "who": "Георги Георгиев"
+  },
+  {
+    "title": "Testing in production: GitHub Copilot",
+    "link": "https://youtu.be/iwpiFWgO-Vo?t=9672",
+    "where": "BurgasConf",
+    "when": "2024",
+    "who": "Цветан Смърдански"
+  },
+  {
+    "title": "Securing Artifacts and Building Trust in Your Containers",
+    "link": "https://youtu.be/iwpiFWgO-Vo?t=17291",
+    "where": "BurgasConf",
+    "when": "2024",
+    "who": "Валентин Христев"
+  },
+  {
+    "title": "Числата в софтуера",
+    "link": "http://va.ludost.net/files/burgasconf/2013/05.Числата%20в%20софтуера%20-%20Стефан%20Кънев.mp4",
+    "where": "BurgasConf",
+    "when": "2013",
+    "who": "Стефан Кънев"
+  },
+  {
+    "title": "IT извън София? Мит или реалност?",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2022",
+    "who": "Божидар Бошнаков"
+  },
+  {
+    "title": "Swift in the Real World",
+    "link": "https://www.youtube.com/watch?v=Kud_BFCLDWc&ab_channel=ITTour",
+    "where": "BurgasConf",
+    "when": "2015",
+    "who": "Галин Кърджилов"
+  },
+  {
+    "title": "Right to Repair",
+    "link": "https://www.youtube.com/watch?v=2JvfhWEeFc4",
+    "where": "BurgasConf",
+    "when": "2021",
+    "who": "Александър Миланов"
+  },
+  {
+    "title": "Милко - PHP",
+    "link": "https://www.youtube.com/watch?v=6-QJVEEnwFc&list=PL39ynX_J56q1Xyyyu8x8Q2qFY6U6YbY48&index=11",
+    "where": "BurgasConf",
+    "when": "2019",
+    "who": "Милко Костурков"
+  },
+  {
+    "title": "Компютърно зрение",
+    "link": "https://www.youtube.com/watch?v=ZoR-HhHoZ_s&ab_channel=ITTour",
+    "where": "BurgasConf",
+    "when": "2023",
+    "who": "Георги Маринов"
+  },
+  {
+    "title": "PHP and JavaScript are dead. Long live PHP and JavaScript",
+    "link": "https://www.youtube.com/watch?v=zVNAwqxGvvY&ab_channel=ITTour",
+    "where": "BurgasConf",
+    "when": "2023",
+    "who": "Христо Чонов"
+  },
+  {
+    "title": "Translation interface on steroids",
+    "link": "https://www.youtube.com/watch?v=yPAMtrvIc0o&ab_channel=ITTour",
+    "where": "BurgasConf",
+    "when": "2023",
+    "who": "Любомир Филипов"
+  },
+  {
+    "title": "Връщане към живота на ретро електроника с Raspberry Pi",
+    "link": "https://youtu.be/jciNe2FHoEw",
+    "where": "BurgasConf",
+    "when": "2017",
+    "who": "Леон Анави"
+  },
+  {
+    "title": "Women in Tech",
+    "link": "https://www.youtube.com/watch?v=LxkA060OXuk",
+    "where": "BurgasConf",
+    "when": "2017",
+    "who": "Anna Radulovski"
+  },
+  {
+    "title": "GitHub Action за 5 минутки",
+    "link": "https://www.youtube.com/watch?v=5Bd1lfVJuhw",
+    "where": "BurgasConf",
+    "when": "2021",
+    "who": " Светлин Наков"
+  },
+  {
+    "title": "L2 between the hackerspaces (lightning talk)",
+    "link": "https://www.youtube.com/watch?v=oG0WR2V97hU&list=PL39ynX_J56q1Xyyyu8x8Q2qFY6U6YbY48&index=9",
+    "where": "BurgasConf",
+    "when": "2019",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Automated testing of Android apps with Appium",
+    "link": "https://www.youtube.com/watch?v=uyOhueGqcqk",
+    "where": "BurgasConf",
+    "when": "2021",
+    "who": " Светлин Наков"
+  },
+  {
+    "title": "Въведение в DeFi - как да направим децентрализирана банка",
+    "link": "https://www.youtube.com/watch?v=RKfch7cEwl8",
+    "where": "BurgasConf",
+    "when": "2021",
+    "who": "Валентин Михов"
+  },
+  {
+    "title": "Control your service resources with systemd",
+    "link": "https://www.youtube.com/watch?v=AOe3-BVMh9g",
+    "where": "BurgasConf",
+    "when": "2021",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Разработка на хибридни мобилни приложения",
+    "link": "https://www.youtube.com/watch?v=n-vS_w6Yda8&index=3&list=PL39ynX_J56q3iTfg0TPZpYffn-g5S_APX",
+    "where": "BurgasConf",
+    "when": "2014",
+    "who": "Георги Георгиев"
+  },
+  {
+    "title": "Thread safety first",
+    "link": "https://www.youtube.com/watch?v=saHntDzIvWo&list=PL39ynX_J56q1Xyyyu8x8Q2qFY6U6YbY48&index=4&t=0s",
+    "where": "BurgasConf",
+    "when": "2019",
+    "who": "Цветан Смърдански"
+  },
+  {
+    "title": "The Return of Proxy ARP",
+    "link": "https://www.youtube.com/watch?v=07sL_yk5XcU",
+    "where": "BurgasConf",
+    "when": "2016",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "How to setup a virtual ARM64 cluster on your x86 host",
+    "link": "https://www.youtube.com/watch?v=Nc-4hjmZvEY&list=PL39ynX_J56q1Xyyyu8x8Q2qFY6U6YbY48&index=5",
+    "where": "BurgasConf",
+    "when": "2019",
+    "who": "Радослав Димитров"
+  },
+  {
+    "title": "GDPR - sysadmin и личните данни( или как да ги опазим от него)",
+    "link": "https://www.youtube.com/watch?v=614V6AohJ40&list=PL39ynX_J56q1Xyyyu8x8Q2qFY6U6YbY48&index=10",
+    "where": "BurgasConf",
+    "when": "2019",
+    "who": "Валентин Русалийски"
+  },
+  {
+    "title": "Анализ на блокчейн данни",
+    "link": "https://www.youtube.com/watch?v=5d1rVxtFp30&list=PL39ynX_J56q1Xyyyu8x8Q2qFY6U6YbY48&index=4",
+    "where": "BurgasConf",
+    "when": "2019",
+    "who": "Валентин Михов"
+  },
+  {
+    "title": "Блокировки в Русия",
+    "link": "https://www.youtube.com/watch?v=ItEbC0uJhUY&list=PL39ynX_J56q1Xyyyu8x8Q2qFY6U6YbY48&index=13",
+    "where": "BurgasConf",
+    "when": "2019",
+    "who": "Михаил Андреев"
+  },
+  {
+    "title": "Browser Grooves vol2 - Recording, Sampling and Looping",
+    "link": "https://www.youtube.com/watch?v=h4eVeLbyc8o&list=PL39ynX_J56q1Xyyyu8x8Q2qFY6U6YbY48&index=8",
+    "where": "BurgasConf",
+    "when": "2019",
+    "who": "Александър Миланов"
+  },
+  {
+    "title": "Building software with Python & Django",
+    "link": "https://www.youtube.com/watch?v=VvFPfi8uvqc&list=PL39ynX_J56q1Xyyyu8x8Q2qFY6U6YbY48&index=7",
+    "where": "BurgasConf",
+    "when": "2019",
+    "who": "Радослав Георгиев"
+  },
+  {
+    "title": "Layer 2 and 3 network attacks (no recording and streaming)",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2019",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Алгоритмите за дегустиране на виното",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2018",
+    "who": "Ирина Генова"
+  },
+  {
+    "title": "Ethereum - the Future of Blockchain",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2018",
+    "who": "Илин Казанджиев"
+  },
+  {
+    "title": "Flash памети за компютри",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2018",
+    "who": "Цветан Узунов"
+  },
+  {
+    "title": "Как да направим образцово multitenant SaaS приложение за AWS",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2018",
+    "who": "Владимир Джувинов"
+  },
+  {
+    "title": "Splitting the Monolith",
+    "link": null,
+    "where": "BurgasConf",
+    "when": "2018",
+    "who": "Ростислав Георгиев"
+  },
+  {
+    "title": "0MQ - сървъри, опашки",
+    "link": "https://www.youtube.com/watch?v=vfZ2QCBHZhY",
+    "where": "BurgasConf",
+    "when": "2017",
+    "who": "Тихомир Трифонов"
+  },
+  {
+    "title": "Проекти, екипи, мениджъри…",
+    "link": "https://www.youtube.com/watch?v=nKO-SCsz0w8",
+    "where": "BurgasConf",
+    "when": "2017",
+    "who": "Силвина Фурнаджиева"
+  },
+  {
+    "title": "TestOps",
+    "link": "https://www.youtube.com/watch?v=lAvlnSPBGEw",
+    "where": "BurgasConf",
+    "when": "2017",
+    "who": "Борислав Трайков"
+  },
+  {
+    "title": "Xamarin : The good, the bad and the ugly",
+    "link": "https://www.youtube.com/watch?v=DABSs6F64ME",
+    "where": "BurgasConf",
+    "when": "2017",
+    "who": "Георги Георгиев / \nСтоян Узунов"
+  },
+  {
+    "title": "Speeding up Mobile Development",
+    "link": "https://www.youtube.com/watch?v=B6C74ivvTj0",
+    "where": "BurgasConf",
+    "when": "2017",
+    "who": "Александър Кондов"
+  },
+  {
+    "title": "Cope With Typos: Fuzzy Matching",
+    "link": "https://www.youtube.com/watch?v=5qGcPD5DmTI",
+    "where": "BurgasConf",
+    "when": "2016",
+    "who": "Любомир Филипов"
+  },
+  {
+    "title": "Състезанията с роботи - врата към софтуeрните предели",
+    "link": "https://www.youtube.com/watch?v=Z4qaEuPFlFk",
+    "where": "BurgasConf",
+    "when": "2016",
+    "who": "Диман Михнев"
+  },
+  {
+    "title": "Introduction to Elixir",
+    "link": "https://www.youtube.com/watch?v=ysxwI6DO5SE",
+    "where": "BurgasConf",
+    "when": "2016",
+    "who": "Венцислав Николов"
+  },
+  {
+    "title": "Aerospike  – Тhe Fast and Furious Cache",
+    "link": "https://www.youtube.com/watch?v=VC1R6db8M-Q",
+    "where": "BurgasConf",
+    "when": "2016",
+    "who": "Тихомир Трифонов"
+  },
+  {
+    "title": "Разбират ли кардиолозите от динамика на флуидите или как да навържем хетерогенни компоненти в подходящ потребителски интерфейс",
+    "link": "http://va.ludost.net/files/burgasconf/2013/04.Разбират%20ли%20кардиолозите%20от%20динамика%20на%20флуидите%20-%20Георги%20Георгиев.mp4",
+    "where": "BurgasConf",
+    "when": "2013",
+    "who": "Георги Георгиев"
+  },
+  {
+    "title": "Containers",
+    "link": "https://www.youtube.com/watch?v=zkB9uslCDb4&list=PL39ynX_J56q1xc_UBU58_WX1tzRQoWwoW&index=1&ab_channel=ITTour",
+    "where": "BurgasConf",
+    "when": "2015",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Изкуствен интелект – възможности или заплаха?",
+    "link": "https://www.youtube.com/watch?v=yatG0MXhBGY&list=PL39ynX_J56q1xc_UBU58_WX1tzRQoWwoW&index=7&ab_channel=ITTour",
+    "where": "BurgasConf",
+    "when": "2015",
+    "who": "Стефан Ставрев"
+  },
+  {
+    "title": "Сигурността на системи от реалния свят",
+    "link": "https://www.youtube.com/watch?v=wC4ET20NAjA&list=PL39ynX_J56q3iTfg0TPZpYffn-g5S_APX&index=8",
+    "where": "BurgasConf",
+    "when": "2014",
+    "who": "Васил Колев"
+  },
+  {
+    "title": "Извличане на информация или как работят търсачките",
+    "link": "https://www.youtube.com/watch?v=MzSX0TwZj2I&ab_channel=ITTour",
+    "where": "BurgasConf",
+    "when": "2015",
+    "who": "Мария Матева"
+  },
+  {
+    "title": "Zero Downtime Deployment with Relational Databases",
+    "link": "https://www.youtube.com/watch?v=aM89NPMfwvA&ab_channel=ITTour",
+    "where": "BurgasConf",
+    "when": "2015",
+    "who": "Неда Калчева"
+  },
+  {
+    "title": "Редактори vs. IDE-та",
+    "link": "https://www.youtube.com/watch?v=MBtmlyi6eeA&list=PL39ynX_J56q3iTfg0TPZpYffn-g5S_APX&index=2",
+    "where": "BurgasConf",
+    "when": "2014",
+    "who": "Стефан Кънев"
+  },
+  {
+    "title": "Автоматизация с Grunt",
+    "link": "https://www.youtube.com/watch?v=11Nfe0KFnXs&list=PL39ynX_J56q3iTfg0TPZpYffn-g5S_APX&index=5",
+    "where": "BurgasConf",
+    "when": "2014",
+    "who": "Христо Чакъров"
+  },
+  {
+    "title": "Светлината в края на тунела е влак",
+    "link": "http://va.ludost.net/files/burgasconf/2013/08.Светлината%20в%20края%20на%20тунела%20е%20влак%20-%20Васил%20Колев.mp4",
+    "where": "BurgasConf",
+    "when": "2013",
+    "who": "Васил Колев"
+  },
+  {
+    "title": "The idiot's approach to patching",
+    "link": "https://www.youtube.com/watch?v=YvIeUyZ-lKo&list=PL39ynX_J56q3iTfg0TPZpYffn-g5S_APX",
+    "where": "BurgasConf",
+    "when": "2014",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Command Line <> GUI?",
+    "link": "https://www.youtube.com/watch?v=DAGnnxytb6I&list=PL39ynX_J56q3iTfg0TPZpYffn-g5S_APX&index=6",
+    "where": "BurgasConf",
+    "when": "2014",
+    "who": "Евгени Кунев"
+  },
+  {
+    "title": "3D графика в браузъра с three.js",
+    "link": "https://www.youtube.com/watch?v=AKsrePW5qSE&list=PL39ynX_J56q3iTfg0TPZpYffn-g5S_APX&index=7",
+    "where": "BurgasConf",
+    "when": "2014",
+    "who": "Андрей Радев"
+  },
+  {
+    "title": "Single Page Application – AngularJS, NodeJS",
+    "link": "https://www.youtube.com/watch?v=PZGZQy2MJxs&list=PL39ynX_J56q3iTfg0TPZpYffn-g5S_APX&index=4",
+    "where": "BurgasConf",
+    "when": "2014",
+    "who": "Димитър Данаилов"
+  },
+  {
+    "title": "Share memory by communicating in Go",
+    "link": "http://va.ludost.net/files/burgasconf/2013/03.Share%20memory%20by%20communicating%20in%20Go%20-%20Кирил%20Владимиров.mp4",
+    "where": "BurgasConf",
+    "when": "2013",
+    "who": "Кирил Владимиров"
+  },
+  {
+    "title": "\"Дистрибутирана компания\" - възможно ли е всички  да работят отвкъщи и работата да върви?",
+    "link": "http://va.ludost.net/files/burgasconf/2013/06.%22%22Дистрибутирана%20компания%22%22%20-%20възможно%20ли%20е%20всички%20да%20работят%20от%20вкъщи%20и%20работата%20да%20върви?%20-%20%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D0%B8%D0%BD%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2.mp4=",
+    "where": "BurgasConf",
+    "when": "2013",
+    "who": "Веселин Николов"
+  },
+  {
+    "title": "Introduction to (Modern) JavaScript Testing",
+    "link": "http://va.ludost.net/files/burgasconf/2013/02.Introduction%20to%20(Modern)%20JavaScript%20Testing%20-%20Jake%20Luer.mp4",
+    "where": "BurgasConf",
+    "when": "2013",
+    "who": "Jake Luer"
+  },
+  {
+    "title": "Practical SA - Смяна на Data Center",
+    "link": "http://va.ludost.net/files/burgasconf/2013/07.Practical%20SA%20-%20Смяна%20на%20Data%20Center%20–%20Иван%20Димитров.mp4",
+    "where": "BurgasConf",
+    "when": "2013",
+    "who": "Иван Димитров"
+  },
+  {
+    "title": "Vim > Твоя редактор",
+    "link": "http://va.ludost.net/files/burgasconf/2013/01.Vim%20%3E%20Твоя%20редактор%20–%20Андрей%20Радев.mp4",
+    "where": "BurgasConf",
+    "when": "2013",
+    "who": "Андрей Радев"
+  },
+  {
+    "title": "Chaos Cloud (lightning talk)",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2019",
+    "who": "Борис Симандов"
+  },
+  {
+    "title": "File editing on the client side (Javascript)",
+    "link": "https://www.youtube.com/watch?v=6E9LoyEQpVo&list=PL39ynX_J56q2Ub4WlcVu_ioVx_KxrNzJu&index=8",
+    "where": "VarnaConf",
+    "when": "2014",
+    "who": "Росен Колев"
+  },
+  {
+    "title": "Keeping secrets secret",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2019",
+    "who": "Даниел Иванов"
+  },
+  {
+    "title": "Introduction to Sandboxing",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2025",
+    "who": "Красен Пенчев"
+  },
+  {
+    "title": "Web API Security with JSON Web Token (JWT)",
+    "link": "https://www.youtube.com/watch?v=5KSh5_NmQkI&list=PL39ynX_J56q1D1EXfLeUOEeWlmncmJYo5&index=13",
+    "where": "VarnaConf",
+    "when": "2015",
+    "who": "Владимир Джувинов"
+  },
+  {
+    "title": "Improve Quality and Security by Standardizing Your DevOps Pipelines",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2023",
+    "who": "Росен Колев"
+  },
+  {
+    "title": "Професия front-end програмист през погледа на един front-end програмист",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2022",
+    "who": "Красимир Цонев"
+  },
+  {
+    "title": "Functions as a Service - The easy way",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2018",
+    "who": "Ивана Йовчева"
+  },
+  {
+    "title": "Дискусия: AI в сигурността",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2025",
+    "who": "Валентин Михов / \nЕвгени Дюлгеров"
+  },
+  {
+    "title": "Prompt Engineering",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2024",
+    "who": "Димитър Панайотов"
+  },
+  {
+    "title": "3D принтирането - подценяваната заплаха за сигурността",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2025",
+    "who": "Евгени Дюлгеров"
+  },
+  {
+    "title": "Моделиране на заплахи (Threat Modeling)",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2022",
+    "who": "Богомил Шопов"
+  },
+  {
+    "title": "Rust: какво, защо и как може да е толкова яко",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2022",
+    "who": "Стефан Кънев"
+  },
+  {
+    "title": "AI срещу КАТ",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2025",
+    "who": "Милен Христов"
+  },
+  {
+    "title": "Firestore: добри практики, скалируемост и мащабируемост",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2025",
+    "who": "Димитър Данаилов"
+  },
+  {
+    "title": "Как да изградиш умения, мрежа и увереност, докато допринасяш с код към кауза",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2025",
+    "who": "Иван Милчев"
+  },
+  {
+    "title": "Browser grooves - Short introduction to WebAudio and WebMIDI",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2019",
+    "who": "Александър Миланов"
+  },
+  {
+    "title": "Java in 2025: A Legacy Dinosaur or a Resilient Powerhouse?",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2025",
+    "who": "Петър Парушев"
+  },
+  {
+    "title": "Parallel processing with WebWorkers - all you need to know",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2019",
+    "who": "Александър Михайлов"
+  },
+  {
+    "title": "Mitigating Network Attacks",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2018",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Днешната работа, срам за уеб майстора",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2024",
+    "who": "Красимир Цонев"
+  },
+  {
+    "title": "Breath of fresh air with Svelte",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2023",
+    "who": "Венцислав Николов"
+  },
+  {
+    "title": "CI/CD pipelines With Terraform and GitHub Actions. Why?",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2023",
+    "who": "Георги Филипов"
+  },
+  {
+    "title": "Emacs: The One True Editor that will Bring Balance to the Source",
+    "link": "https://www.youtube.com/watch?v=iGzTfapsmLI",
+    "where": "VarnaConf",
+    "when": "2016",
+    "who": "Божидар Бацов"
+  },
+  {
+    "title": "Microservices done right",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2024",
+    "who": "Мирослав Кошутански"
+  },
+  {
+    "title": "Идентифициране и смекчаване на риска при стартиране на бизнес",
+    "link": "https://www.youtube.com/watch?v=8PyNFLtV4Bg",
+    "where": "VarnaConf",
+    "when": "2017",
+    "who": "Александър Димов"
+  },
+  {
+    "title": "Microservices Design Patterns",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2023",
+    "who": "Красимир Байлов"
+  },
+  {
+    "title": "Лихвите на техническия дълг",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2024",
+    "who": "Иван Жеков"
+  },
+  {
+    "title": "Два проекта с отворен код, които ще променят живота ти!",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2024",
+    "who": "Богомил Шопов"
+  },
+  {
+    "title": "The 4C's of Cloud Native Security",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2024",
+    "who": "Валентин Христев"
+  },
+  {
+    "title": "AI на Правец 8",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2024",
+    "who": "Милен Христов"
+  },
+  {
+    "title": "Ember.js за old-school web програмисти",
+    "link": "https://www.youtube.com/watch?v=b9E3FqJONOk&list=PL39ynX_J56q1D1EXfLeUOEeWlmncmJYo5&index=7",
+    "where": "VarnaConf",
+    "when": "2015",
+    "who": "Андрей Радев"
+  },
+  {
+    "title": "What the Flutter (WTF) - Какво е Flutter и защо се търси?",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2023",
+    "who": "Йовко Желев"
+  },
+  {
+    "title": "От нула до работещо приложение с помощта на ChatGPT",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2023",
+    "who": "Трифон Трифонов"
+  },
+  {
+    "title": "JavaScript: доброто, лошото и това, което работи",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2023",
+    "who": "Красимир Цонев"
+  },
+  {
+    "title": "Unit Test-ове, TDD и всичко останало",
+    "link": "http://va.ludost.net/files/varnaconf/2012/04-StefanKanev.avi",
+    "where": "VarnaConf",
+    "when": "2012",
+    "who": "Стефан Кънев"
+  },
+  {
+    "title": "Shipping Pseudocode to Production",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2019",
+    "who": "Добромир Николов"
+  },
+  {
+    "title": "Мета-програмиране с Nimrod",
+    "link": "https://www.youtube.com/watch?v=dTNMqfo-p5A&index=7&list=PL39ynX_J56q2Ub4WlcVu_ioVx_KxrNzJu",
+    "where": "VarnaConf",
+    "when": "2014",
+    "who": "Борислав Станимиров / \nЗахари Караджов"
+  },
+  {
+    "title": "Видове автоматизирано тестване: какъв вид да изберем спрямо проекта?",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2022",
+    "who": "Димитър Панайотов"
+  },
+  {
+    "title": "Web accessibility testing tools",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2022",
+    "who": "Елена Жекова"
+  },
+  {
+    "title": "Редизайн на „държавата“ и препрограмиране на „системата“",
+    "link": "https://www.youtube.com/watch?v=gjKdTrtCjt8&index=4&list=PL39ynX_J56q2Ub4WlcVu_ioVx_KxrNzJu",
+    "where": "VarnaConf",
+    "when": "2014",
+    "who": "Антон Стойчев"
+  },
+  {
+    "title": "Data Lakes - какво, кога и как",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2022",
+    "who": "Иван Донев"
+  },
+  {
+    "title": "Design First API Development With OpenAPI And Friends",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2019",
+    "who": "Боян Йорданов"
+  },
+  {
+    "title": "Blue/Green Deployment with Docker, Haproxy and Consul",
+    "link": "https://www.youtube.com/watch?v=1WYOBgLDIEM",
+    "where": "VarnaConf",
+    "when": "2017",
+    "who": "Владимир Витков"
+  },
+  {
+    "title": "Conditional HTTP requests",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2022",
+    "who": "Красен Пенчев"
+  },
+  {
+    "title": "Как нашето съзнание влияе върху нещата, които създаваме",
+    "link": "https://www.youtube.com/watch?v=ake8-Mnza9Q&index=10&list=PL39ynX_J56q2k8BDBeRTycTauUxyCYmF7",
+    "where": "VarnaConf",
+    "when": "2016",
+    "who": "Апостол Апостолов"
+  },
+  {
+    "title": "Какво не знаят програмистите, а би трябвало",
+    "link": "http://va.ludost.net/files/varnaconf/2012/10-VasilKolev.avi",
+    "where": "VarnaConf",
+    "when": "2012",
+    "who": "Васил Колев"
+  },
+  {
+    "title": "Open Source && Работа в екип",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2018",
+    "who": "Димитър Йорданов"
+  },
+  {
+    "title": "Deep dive into the JS call stack",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2018",
+    "who": "Иван Димитров"
+  },
+  {
+    "title": "Why Google Cloud?",
+    "link": "https://www.youtube.com/watch?v=v6E34Jye6X0",
+    "where": "VarnaConf",
+    "when": "2017",
+    "who": "Борис Симандов"
+  },
+  {
+    "title": "Екстремно програмиране",
+    "link": "https://www.youtube.com/watch?v=e9fjpdq9rjM&list=PL39ynX_J56q2Ub4WlcVu_ioVx_KxrNzJu&index=9",
+    "where": "VarnaConf",
+    "when": "2014",
+    "who": "Стефан Кънев"
+  },
+  {
+    "title": "Demonstration of Network Attacks at L2 and L3 (no stream and no recording)",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2019",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Node.js",
+    "link": "http://va.ludost.net/files/varnaconf/2012/07-BorisFilipov.avi",
+    "where": "VarnaConf",
+    "when": "2012",
+    "who": "Борис Ангелов Филипов"
+  },
+  {
+    "title": "A Model of Devops Team Excellence",
+    "link": "https://www.youtube.com/watch?v=aeYVmKgcKvw&index=12&list=PL39ynX_J56q1D1EXfLeUOEeWlmncmJYo5",
+    "where": "VarnaConf",
+    "when": "2015",
+    "who": "Иван Димитров"
+  },
+  {
+    "title": "Code Smells & Refactoring",
+    "link": "https://www.youtube.com/watch?v=MHMWJkGS7sY",
+    "where": "VarnaConf",
+    "when": "2013",
+    "who": "Радослав Станков"
+  },
+  {
+    "title": "GDPR - още въпроси и отговори",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2018",
+    "who": "Валентин Русалийски"
+  },
+  {
+    "title": "Scalable web apps for patients",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2018",
+    "who": "Красимир Цонев"
+  },
+  {
+    "title": "Международните отношения в киберпространството",
+    "link": null,
+    "where": "VarnaConf",
+    "when": "2018",
+    "who": "Венета Йосифова"
+  },
+  {
+    "title": "REST more with JSON-API",
+    "link": "https://www.youtube.com/watch?v=q8Eg24yX98g",
+    "where": "VarnaConf",
+    "when": "2017",
+    "who": "Боян Йорданов"
+  },
+  {
+    "title": "Презентация за презентатори",
+    "link": "https://www.youtube.com/watch?v=mmE7aI25u3Q",
+    "where": "VarnaConf",
+    "when": "2017",
+    "who": "Красимир Цонев"
+  },
+  {
+    "title": "What does it take to become a FE developer, nowadays",
+    "link": "https://www.youtube.com/watch?v=ZVgj0j6tKiY",
+    "where": "VarnaConf",
+    "when": "2017",
+    "who": "Иван Шулев"
+  },
+  {
+    "title": "Blue/Green deployment с haproxy, docker и consul",
+    "link": "https://www.youtube.com/watch?v=VPTcCq470Fg&list=PL39ynX_J56q2k8BDBeRTycTauUxyCYmF7&index=9",
+    "where": "VarnaConf",
+    "when": "2016",
+    "who": "Владимир Витков"
+  },
+  {
+    "title": "Building a Startup in Azure",
+    "link": "https://www.youtube.com/watch?v=JeqembyfgVU&index=10&list=PL39ynX_J56q1D1EXfLeUOEeWlmncmJYo5",
+    "where": "VarnaConf",
+    "when": "2015",
+    "who": "Димитър Георгиев"
+  },
+  {
+    "title": "Биометрична идентификация",
+    "link": "https://www.youtube.com/watch?v=7XeYnWARZFo",
+    "where": "VarnaConf",
+    "when": "2016",
+    "who": "Божидар Божанов"
+  },
+  {
+    "title": "Gamification: или защо е яко да се заиграваме на работа",
+    "link": "https://www.youtube.com/watch?v=jBpfYAk2tfo",
+    "where": "VarnaConf",
+    "when": "2016",
+    "who": "Борислав Трайков"
+  },
+  {
+    "title": "Project Planning",
+    "link": "https://www.youtube.com/watch?v=AQ4e4V-1LPA",
+    "where": "VarnaConf",
+    "when": "2016",
+    "who": "Радослав Станков"
+  },
+  {
+    "title": "MySQL Replication with Galera",
+    "link": "https://www.youtube.com/watch?v=frDk4iY0aX4",
+    "where": "VarnaConf",
+    "when": "2016",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Building Multiplayer Real-time Game with Elixir",
+    "link": "https://www.youtube.com/watch?v=W_p0a9UcdR8",
+    "where": "VarnaConf",
+    "when": "2016",
+    "who": "Венцислав Николов"
+  },
+  {
+    "title": "От Ной до виртуализацията: през погледа на един технически писател",
+    "link": "https://www.youtube.com/watch?v=OX5AIPsavHI&index=8&list=PL39ynX_J56q2k8BDBeRTycTauUxyCYmF7",
+    "where": "VarnaConf",
+    "when": "2016",
+    "who": "Ваня Кирицова"
+  },
+  {
+    "title": "GraphQL",
+    "link": "https://www.youtube.com/watch?v=T2cucknCd6M&list=PL39ynX_J56q1D1EXfLeUOEeWlmncmJYo5&index=9",
+    "where": "VarnaConf",
+    "when": "2015",
+    "who": "Радослав Станков"
+  },
+  {
+    "title": "React за PHP програмисти",
+    "link": "https://www.youtube.com/watch?v=b9E3FqJONOk&list=PL39ynX_J56q1D1EXfLeUOEeWlmncmJYo5&index=7",
+    "where": "VarnaConf",
+    "when": "2015",
+    "who": "Веселин Николов"
+  },
+  {
+    "title": "Designing in/for web",
+    "link": "https://www.youtube.com/watch?v=Vkrp4XVdU6E",
+    "where": "VarnaConf",
+    "when": "2013",
+    "who": "Красимир Цонев"
+  },
+  {
+    "title": "Functional Patterns in JavaScript",
+    "link": "https://www.youtube.com/watch?v=HB_awwQKv5Q&list=PL39ynX_J56q1D1EXfLeUOEeWlmncmJYo5&index=2",
+    "where": "VarnaConf",
+    "when": "2015",
+    "who": "Радослав Георгиев"
+  },
+  {
+    "title": "Taking Full Advantage of Apple Watch with WatchOS 2.0",
+    "link": "https://www.youtube.com/watch?v=dkRFJaoMfM0&list=PL39ynX_J56q1D1EXfLeUOEeWlmncmJYo5&index=3",
+    "where": "VarnaConf",
+    "when": "2015",
+    "who": "Галин Кърджилов"
+  },
+  {
+    "title": "Две книги по-късно ...",
+    "link": "https://www.youtube.com/watch?v=nqcWjPS79Hs&index=8&list=PL39ynX_J56q1D1EXfLeUOEeWlmncmJYo5",
+    "where": "VarnaConf",
+    "when": "2015",
+    "who": "Красимир Цонев"
+  },
+  {
+    "title": "VoIP за начинаещи",
+    "link": "https://www.youtube.com/watch?v=-gwuiysHCs0&index=11&list=PL39ynX_J56q1D1EXfLeUOEeWlmncmJYo5",
+    "where": "VarnaConf",
+    "when": "2015",
+    "who": "Стефан Леков"
+  },
+  {
+    "title": "По-ниска заплата, за да пиша код за държавата?",
+    "link": "https://www.youtube.com/watch?v=0zUF6BNhycw&index=5&list=PL39ynX_J56q1D1EXfLeUOEeWlmncmJYo5",
+    "where": "VarnaConf",
+    "when": "2015",
+    "who": "Димитър Димитров"
+  },
+  {
+    "title": "Under the Hood of Hybrid Apps",
+    "link": "https://www.youtube.com/watch?v=BQhEuCoiGZM&list=PL39ynX_J56q1D1EXfLeUOEeWlmncmJYo5&index=4",
+    "where": "VarnaConf",
+    "when": "2015",
+    "who": "Александър Михайлов"
+  },
+  {
+    "title": "Node.js and Open Source Software Development on Microsoft Azure",
+    "link": "https://www.youtube.com/watch?v=mXiR8upHYao&index=3&list=PL39ynX_J56q2Ub4WlcVu_ioVx_KxrNzJu",
+    "where": "VarnaConf",
+    "when": "2014",
+    "who": "Михаил Матеев"
+  },
+  {
+    "title": "iOS Development - Tips & Tricks",
+    "link": "https://www.youtube.com/watch?v=jLxHIiQX_Wg&list=PL39ynX_J56q2Ub4WlcVu_ioVx_KxrNzJu&index=5",
+    "where": "VarnaConf",
+    "when": "2014",
+    "who": "Галин Кърджилов  / \nСтефан Цвятков"
+  },
+  {
+    "title": "The Cloud Beyond the Buzzword",
+    "link": "https://www.youtube.com/watch?v=P2jsqfP8CMc&index=6&list=PL39ynX_J56q2Ub4WlcVu_ioVx_KxrNzJu",
+    "where": "VarnaConf",
+    "when": "2014",
+    "who": "Божидар Божанов"
+  },
+  {
+    "title": "Automation is keeping me sane (and lazy)",
+    "link": "https://www.youtube.com/watch?v=-U1NtOdq8iY",
+    "where": "VarnaConf",
+    "when": "2013",
+    "who": "Константин Данков"
+  },
+  {
+    "title": "Apple AppStore",
+    "link": "https://www.youtube.com/watch?v=1jHYqh2A3Fk",
+    "where": "VarnaConf",
+    "when": "2013",
+    "who": "Даниел Радев"
+  },
+  {
+    "title": "Размисли за занаята",
+    "link": "https://www.youtube.com/watch?v=nIEFx52tllY",
+    "where": "VarnaConf",
+    "when": "2013",
+    "who": "Стефан Кънев"
+  },
+  {
+    "title": "Какво става лесно с Redis",
+    "link": "https://www.youtube.com/watch?v=KoAU3_Qx4rs",
+    "where": "VarnaConf",
+    "when": "2013",
+    "who": "Свилен Иванов"
+  },
+  {
+    "title": "Как да превземем света с Vim",
+    "link": "http://va.ludost.net/files/varnaconf/2012/08-AndrewRadev.avi",
+    "where": "VarnaConf",
+    "when": "2012",
+    "who": "Андрей Радев"
+  },
+  {
+    "title": "Скалиране на Ruby on Rails приложения",
+    "link": "https://www.youtube.com/watch?v=5HmT4CA8G4U",
+    "where": "VarnaConf",
+    "when": "2013",
+    "who": "Валентин Михов"
+  },
+  {
+    "title": "Unit testing",
+    "link": "https://www.youtube.com/watch?v=HEB5ReiW7-g",
+    "where": "VarnaConf",
+    "when": "2013",
+    "who": " Светлин Наков"
+  },
+  {
+    "title": "Ruby на релси за уеб програмисти",
+    "link": "http://va.ludost.net/files/varnaconf/2012/05-DimitarDimitrov.avi",
+    "where": "VarnaConf",
+    "when": "2012",
+    "who": "Димитър Димитров"
+  },
+  {
+    "title": "Мигриране на asp.net апликация в Windows Azure",
+    "link": "http://va.ludost.net/files/varnaconf/2012/02-DimitarGeorgiev.avi",
+    "where": "VarnaConf",
+    "when": "2012",
+    "who": "Димитър Георгиев"
+  },
+  {
+    "title": "Хакерспейсове и секси начините да научиш нещо истински съществено в България",
+    "link": "http://va.ludost.net/files/varnaconf/2012/09-KalinChernev.avi",
+    "where": "VarnaConf",
+    "when": "2012",
+    "who": "Калин Чернев"
+  },
+  {
+    "title": "Как да пишем добър код",
+    "link": "https://www.youtube.com/watch?v=-RjNYICdauE&ab_channel=ITTour",
+    "where": "VarnaConf",
+    "when": "2012",
+    "who": "Радослав Станков"
+  },
+  {
+    "title": "Полифазното -  спане, опит от първа ръка",
+    "link": "https://www.youtube.com/watch?v=STIP3McXUXI&ab_channel=ITTour",
+    "where": "VarnaConf",
+    "when": "2012",
+    "who": "Христо Дешев"
+  },
+  {
+    "title": "Да изтестваш за 60 секунди",
+    "link": "https://www.youtube.com/watch?v=TVU1md-bno4&ab_channel=ITTour",
+    "where": "RuseConf",
+    "when": "2022",
+    "who": "Петър Събев"
+  },
+  {
+    "title": "Извличане на полезни данни с MongoDB Aggregation Framework",
+    "link": "https://www.youtube.com/watch?v=R5pnb-UAbD8&index=6&list=PL39ynX_J56q38HPt4SSmKt-oRAQxbv8j1",
+    "where": "RuseConf",
+    "when": "2016",
+    "who": "Александър Ненков"
+  },
+  {
+    "title": "Къде да се интегрира първо GenAI?",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2024",
+    "who": "Александър Йорданов"
+  },
+  {
+    "title": "How Pattern Object Model saved my life",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2019",
+    "who": "Gjore Zaharchev"
+  },
+  {
+    "title": "Welcome our new AI team",
+    "link": "https://www.youtube.com/watch?v=mzUah3WfEzo&ab_channel=ITTour",
+    "where": "RuseConf",
+    "when": "2023",
+    "who": "Вихрен Ганев"
+  },
+  {
+    "title": "Софтуерни приложения за управление на производствени процеси",
+    "link": "https://www.youtube.com/watch?v=fNgujZE34L4&ab_channel=ITTour",
+    "where": "RuseConf",
+    "when": "2022",
+    "who": "Камен Кръстев"
+  },
+  {
+    "title": "VR Environment за “NASA Space Apps 2018”",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2018",
+    "who": "Николай Маринов / \nСтефан Стефанов"
+  },
+  {
+    "title": ".NET Core, .NET Core навсякъде...",
+    "link": "https://www.youtube.com/watch?v=I7oXkDh9_kM&index=5&list=PL39ynX_J56q38HPt4SSmKt-oRAQxbv8j1",
+    "where": "RuseConf",
+    "when": "2016",
+    "who": "Панайот Тодоров"
+  },
+  {
+    "title": "The World of PWA: Native Features Powered by Web APIs",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2024",
+    "who": "Стефан Неделчев"
+  },
+  {
+    "title": "Legacy code - какво представлява и как да се справим с него",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2024",
+    "who": "Александра Митева"
+  },
+  {
+    "title": "Essential Modern C++",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2024",
+    "who": "Благовест Буюклиев"
+  },
+  {
+    "title": "Code Reviews + Pull Requests: Защо, Кога и Как?",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2024",
+    "who": "Калоян Цветков"
+  },
+  {
+    "title": "Уеб разработка по габровски: Максимум резултат с нулев бюджет",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2024",
+    "who": "Любомир Филипов"
+  },
+  {
+    "title": "Как да изгасим/светнем лампите на съседа",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2024",
+    "who": "Йордан Йорданов"
+  },
+  {
+    "title": "State of JavaScript tooling in 2022",
+    "link": "https://www.youtube.com/watch?v=u3XHq14xtt0&ab_channel=ITTour",
+    "where": "RuseConf",
+    "when": "2022",
+    "who": "Александър Кондов"
+  },
+  {
+    "title": "Orchestrating nearly 2000 Websites on a Decoupled Architecture",
+    "link": "https://www.youtube.com/watch?v=tYlZ2byfhP4&ab_channel=ITTour",
+    "where": "RuseConf",
+    "when": "2023",
+    "who": "Никола Бинтев"
+  },
+  {
+    "title": "GCP (Google Cloud Platform) за web master-и",
+    "link": "https://www.youtube.com/watch?v=Ou6hPasa8j4&ab_channel=ITTour",
+    "where": "RuseConf",
+    "when": "2023",
+    "who": "Красимир Цонев"
+  },
+  {
+    "title": "Asynchronous Systems Programming under Linux",
+    "link": "https://www.youtube.com/watch?v=WwNLuRl0r_I&ab_channel=ITTour",
+    "where": "RuseConf",
+    "when": "2023",
+    "who": "Благовест Буюклиев"
+  },
+  {
+    "title": "GitOps",
+    "link": "https://www.youtube.com/watch?v=aKlv8rRbsRE&ab_channel=ITTour",
+    "where": "RuseConf",
+    "when": "2023",
+    "who": "Стефан Андонов"
+  },
+  {
+    "title": "Как да създадем съвършен екип с несъвършени хора",
+    "link": "https://www.youtube.com/watch?v=-glseQAA6Fs&list=UUti0I5OyGAtFlkFIZ5Kzp9g",
+    "where": "RuseConf",
+    "when": "2014",
+    "who": "Петър Събев"
+  },
+  {
+    "title": "HashiCorp Nomad: Orchestration Made Easy",
+    "link": "https://www.youtube.com/watch?v=oDrTCkUudNU&ab_channel=ITTour",
+    "where": "RuseConf",
+    "when": "2022",
+    "who": "Вихрен Ганев"
+  },
+  {
+    "title": "Specification by Example",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2017",
+    "who": "Адриан Митев"
+  },
+  {
+    "title": "Unit tests: Досада или полза?",
+    "link": "https://www.youtube.com/watch?v=7BEbF3vayvE&ab_channel=ITTour",
+    "where": "RuseConf",
+    "when": "2023",
+    "who": "Кристиян Ташев"
+  },
+  {
+    "title": "Меки умения – отчетливият контур в технологична среда",
+    "link": "https://www.youtube.com/watch?v=hY2mSvffp8M&ab_channel=ITTour",
+    "where": "RuseConf",
+    "when": "2023",
+    "who": "Калина Петрова"
+  },
+  {
+    "title": "Как станах maintainer на django-chartit?",
+    "link": "https://www.youtube.com/watch?v=dn4CSEItmus&index=2&list=PL39ynX_J56q38HPt4SSmKt-oRAQxbv8j1",
+    "where": "RuseConf",
+    "when": "2016",
+    "who": "Александър Тодоров"
+  },
+  {
+    "title": "AWS Cloud and DevOps Engineer - demystified",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2022",
+    "who": "Тодор Тодоров"
+  },
+  {
+    "title": "Обектно-ориентиран дизайн",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2019",
+    "who": "Мариана Боздуганова"
+  },
+  {
+    "title": "Building a CI/CD System with GitHub Actions",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2022",
+    "who": " Светлин Наков"
+  },
+  {
+    "title": "Tailwind - a utility-first CSS framework for rapid UI development",
+    "link": "https://www.youtube.com/watch?v=VkYzsNWLe6Y&ab_channel=ITTour",
+    "where": "RuseConf",
+    "when": "2022",
+    "who": "Даяна Илиева"
+  },
+  {
+    "title": "Статичен анализ за кеф и работа",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2019",
+    "who": "Александър Тодоров"
+  },
+  {
+    "title": "PostgreSQL indexes",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2019",
+    "who": "Вихрен Ганев"
+  },
+  {
+    "title": "Откриване",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2019",
+    "who": "Вихрен Ганев"
+  },
+  {
+    "title": "NB-IoT нова технология за IoT която има потенциал да измести LoRa и SigFox",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2019",
+    "who": "Цветан Узунов"
+  },
+  {
+    "title": "Docker 102 - (mostly) Everything you need to start",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2019",
+    "who": "Габриел Кънев"
+  },
+  {
+    "title": "Измерване на консумация на ток, вода и газ",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2019",
+    "who": "Николай Милованов"
+  },
+  {
+    "title": "Дигитален маркетинг за програмисти",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2018",
+    "who": "Вихрен Ганев"
+  },
+  {
+    "title": "Create your own furniture with FreeCad+Python",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2018",
+    "who": "Николай Маринов"
+  },
+  {
+    "title": "За професията като призвание - aвтори на техническа документация",
+    "link": "https://www.youtube.com/watch?v=tTtB4plV9us&index=9&list=PL39ynX_J56q38HPt4SSmKt-oRAQxbv8j1",
+    "where": "RuseConf",
+    "when": "2016",
+    "who": "Десислава Михайлова"
+  },
+  {
+    "title": "Running a coding academy in the balkans",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2018",
+    "who": "Радослав Георгиев"
+  },
+  {
+    "title": "BTRFS overview",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2018",
+    "who": "Николай Борисов"
+  },
+  {
+    "title": "HTTP/3 and QUIC",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2018",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Containers internals (or how are they implemented)",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2017",
+    "who": "Николай Борисов"
+  },
+  {
+    "title": "100% coverage with Codeception",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2017",
+    "who": "Ивелин Павлов"
+  },
+  {
+    "title": "Decentralized Applications with Ethereum and IPFS",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2017",
+    "who": "Емил Стоянов"
+  },
+  {
+    "title": "Quantum computing algorithms",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2017",
+    "who": "Деян Михайлов"
+  },
+  {
+    "title": "Varnish Cache",
+    "link": null,
+    "where": "RuseConf",
+    "when": "2017",
+    "who": "Вихрен Ганев"
+  },
+  {
+    "title": "Animate and Automate",
+    "link": "https://www.youtube.com/watch?v=MIxzzfFBR8o&index=8&list=PL39ynX_J56q38HPt4SSmKt-oRAQxbv8j1",
+    "where": "RuseConf",
+    "when": "2016",
+    "who": "Георги Иванов / \nЖени Кючукова"
+  },
+  {
+    "title": "Как работи Интернет",
+    "link": "https://www.youtube.com/watch?v=oQqOB7uW6f8&list=UUti0I5OyGAtFlkFIZ5Kzp9g",
+    "where": "RuseConf",
+    "when": "2014",
+    "who": "Боян Кроснов"
+  },
+  {
+    "title": "Building REST APIs for the Mobile World",
+    "link": "https://www.youtube.com/watch?v=G-v42gL3rnw&index=3&list=PL39ynX_J56q38HPt4SSmKt-oRAQxbv8j1",
+    "where": "RuseConf",
+    "when": "2016",
+    "who": "Стефан Вартоломеев"
+  },
+  {
+    "title": "Разработка на софтуер чрез употреба на виртуални машини",
+    "link": "https://www.youtube.com/watch?v=LQb2frckTdo&ab_channel=ITTour",
+    "where": "RuseConf",
+    "when": "2015",
+    "who": "Вихрен Ганев"
+  },
+  {
+    "title": "Контейнеризиране на приложения с docker",
+    "link": "https://www.youtube.com/watch?v=zNJXOmXD2sc&list=PL39ynX_J56q38HPt4SSmKt-oRAQxbv8j1&index=7",
+    "where": "RuseConf",
+    "when": "2016",
+    "who": "Сава Чанков"
+  },
+  {
+    "title": "JavaScript Fatigue",
+    "link": "https://www.youtube.com/watch?v=DTS4NflvR_Y&index=4&list=PL39ynX_J56q38HPt4SSmKt-oRAQxbv8j1",
+    "where": "RuseConf",
+    "when": "2016",
+    "who": "Александър Кондов"
+  },
+  {
+    "title": "Configuration Management and Deployment with Ansible",
+    "link": "https://www.youtube.com/watch?v=OSL7mwYRVLo&list=UUti0I5OyGAtFlkFIZ5Kzp9g",
+    "where": "RuseConf",
+    "when": "2014",
+    "who": "Иван Димитров"
+  },
+  {
+    "title": "Managing Technical Debt",
+    "link": "https://www.youtube.com/watch?v=Zu1xs69Ofpo&index=3&list=PL39ynX_J56q1LAQmSyOhzCiWXOdK-wofT",
+    "where": "RuseConf",
+    "when": "2015",
+    "who": "Адриан Митев"
+  },
+  {
+    "title": "Математика чрез програмиране: Подходът",
+    "link": "https://www.youtube.com/watch?v=j6SYfzAsG5k&list=UUti0I5OyGAtFlkFIZ5Kzp9g",
+    "where": "RuseConf",
+    "when": "2014",
+    "who": "Радослав Георгиев"
+  },
+  {
+    "title": "High-availability with Pacemaker",
+    "link": "https://www.youtube.com/watch?v=NAz2HldOw0w&list=UUti0I5OyGAtFlkFIZ5Kzp9g",
+    "where": "RuseConf",
+    "when": "2014",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "3D светът в компютърните технологии",
+    "link": "https://www.youtube.com/watch?v=B5YaZe534KI&list=UUti0I5OyGAtFlkFIZ5Kzp9g",
+    "where": "RuseConf",
+    "when": "2014",
+    "who": "Румен Русев"
+  },
+  {
+    "title": "Advanced SQL Queries",
+    "link": "https://www.youtube.com/watch?v=oE-uz29XGj8&index=6&list=PL39ynX_J56q1LAQmSyOhzCiWXOdK-wofT",
+    "where": "RuseConf",
+    "when": "2015",
+    "who": "Стефан Вартоломеев"
+  },
+  {
+    "title": "ORM технологии за ефективна работа с бази данни",
+    "link": "https://www.youtube.com/watch?v=9wuO7TRqB0A&list=PL39ynX_J56q1LAQmSyOhzCiWXOdK-wofT&index=5",
+    "where": "RuseConf",
+    "when": "2015",
+    "who": " Светлин Наков"
+  },
+  {
+    "title": "Силата на един процент",
+    "link": "https://www.youtube.com/watch?v=aDsrxvy-EqE&list=PL39ynX_J56q1LAQmSyOhzCiWXOdK-wofT&index=7",
+    "where": "RuseConf",
+    "when": "2015",
+    "who": "Георги Димитров"
+  },
+  {
+    "title": "Как да работим с англичани",
+    "link": "https://www.youtube.com/watch?v=hSqE3t3P46Y&list=PL39ynX_J56q1LAQmSyOhzCiWXOdK-wofT&index=4",
+    "where": "RuseConf",
+    "when": "2015",
+    "who": "Петър Събев"
+  },
+  {
+    "title": "Advanced Git",
+    "link": "https://www.youtube.com/watch?v=Rvesi1GY7vs&list=UUti0I5OyGAtFlkFIZ5Kzp9g",
+    "where": "RuseConf",
+    "when": "2014",
+    "who": "Стефан Кънев"
+  },
+  {
+    "title": "Scala - the Good, the Bad and the Very Ugly",
+    "link": "https://www.youtube.com/watch?v=lXx5K6WKt6g&list=UUti0I5OyGAtFlkFIZ5Kzp9g",
+    "where": "RuseConf",
+    "when": "2014",
+    "who": "Божидар Божанов"
+  },
+  {},
+  {
+    "title": "Managing Distributed Team",
+    "link": "https://www.youtube.com/watch?v=pNn3hUHotO0",
+    "where": "BlagoevgradConf",
+    "when": "2014",
+    "who": " Веселин Николов"
+  },
+  {
+    "title": "Life in the Cloud: Stories of the System Administrator",
+    "link": "https://www.youtube.com/watch?v=05j4nvZLF1k",
+    "where": "BlagoevgradConf",
+    "when": "2014",
+    "who": " Владимир Витков"
+  },
+  {
+    "title": "Практичен обектно-ориентиран дизайн",
+    "link": "https://www.youtube.com/watch?v=f697EwT4o5k",
+    "where": "BlagoevgradConf",
+    "when": "2014",
+    "who": " Валентин Михов"
+  },
+  {
+    "title": "А, това как да направя? Фактори за избор и разработка на добър софтуер",
+    "link": "https://www.youtube.com/watch?v=A-eK63cH_CA",
+    "where": "BlagoevgradConf",
+    "when": "2014",
+    "who": "Антон Стойчев"
+  },
+  {
+    "title": "Програмиране с нищо",
+    "link": "https://www.youtube.com/watch?v=vTjYiGQGeL0",
+    "where": "BlagoevgradConf",
+    "when": "2014",
+    "who": "Стефан Кънев"
+  },
+  {
+    "title": "Run Two ISPs in Your Home (Multihomed Router)",
+    "link": "https://www.youtube.com/watch?v=velXVClRhFA",
+    "where": "BlagoevgradConf",
+    "when": "2014",
+    "who": " Мариян Маринов"
+  },
+  {
+    "title": "Test-Driven Development - 10 години по-късно",
+    "link": "https://www.youtube.com/watch?v=jZ11tCl1NdA&list=PL39ynX_J56q1XwbXwfcWo_ifkb7pIxqt4&index=8",
+    "where": "BlagoevgradConf",
+    "when": "2013",
+    "who": " Христо Дешев"
+  },
+  {
+    "title": "vim & zsh",
+    "link": "https://www.youtube.com/watch?v=qLDU8ugpO9Y&index=7&list=PL39ynX_J56q1XwbXwfcWo_ifkb7pIxqt4",
+    "where": "BlagoevgradConf",
+    "when": "2013",
+    "who": "Стефан Кънев"
+  },
+  {
+    "title": "Софтуер и образование - децентрализация - университет като платформа",
+    "link": "https://www.youtube.com/watch?v=4S6Xk7J0GtA&list=PL39ynX_J56q1XwbXwfcWo_ifkb7pIxqt4&index=6",
+    "where": "BlagoevgradConf",
+    "when": "2013",
+    "who": "Радослав Георгиев"
+  },
+  {
+    "title": "Designing mobile APIs",
+    "link": "https://speakerdeck.com/rstankov/designing-mobile-api",
+    "where": "BlagoevgradConf",
+    "when": "2013",
+    "who": "Радослав Станков"
+  },
+  {
+    "title": "В защита на морското свинче",
+    "link": "https://www.youtube.com/watch?v=0YLGXTrsUT0&index=4&list=PL39ynX_J56q1XwbXwfcWo_ifkb7pIxqt4",
+    "where": "BlagoevgradConf",
+    "when": "2013",
+    "who": "Екатерина Михайлова"
+  },
+  {
+    "title": "Bluetooth security",
+    "link": "https://www.youtube.com/watch?v=Um_XrDqt2Eo&index=3&list=PL39ynX_J56q1XwbXwfcWo_ifkb7pIxqt4",
+    "where": "BlagoevgradConf",
+    "when": "2013",
+    "who": "Мариян Маринов"
+  },
+  {
+    "title": "Какво става лесно с Redis",
+    "link": "https://www.youtube.com/watch?v=fjy_F_XCn3U&list=PL39ynX_J56q1XwbXwfcWo_ifkb7pIxqt4&index=2",
+    "where": "BlagoevgradConf",
+    "when": "2013",
+    "who": "Свилен Иванов"
+  }
+]
